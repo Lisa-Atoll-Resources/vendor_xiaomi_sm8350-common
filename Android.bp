@@ -4,7 +4,7 @@
 
 soong_namespace {
     imports: [
-        "device/xiaomi/sm8350-common",
+        "device/xiaomi/lisa",
         "hardware/qcom-caf/sm8350",
         "hardware/qcom-caf/wlan",
         "hardware/xiaomi",
